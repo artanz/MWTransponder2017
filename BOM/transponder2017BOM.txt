@@ -1,0 +1,52 @@
+1x ATMEGA328P
+http://www.digikey.com/product-detail/en/microchip-technology/ATMEGA328P-AUR/ATMEGA328P-AURCT-ND/3789455
+
+1x SMA Schottky Diode (B130 or B140)
+http://www.digikey.com/product-detail/en/B130-13-F/B130-FDICT-ND/815318
+http://www.digikey.com/product-detail/en/diodes-incorporated/B140HB-13-F/B140HB-FDICT-ND/815320
+
+1x 5v VREG SOT23-5 (MIC5219-5.0YM5-TR)
+http://www.digikey.com/product-detail/en/microchip-technology/MIC5219-5.0YM5-TR/576-2770-1-ND/1821930
+
+1x 3.3v VREG SOT23-5 (MIC5219-3.3YM5-TR)
+http://www.digikey.com/product-detail/en/microchip-technology/MIC5219-3.3YM5-TR/576-1281-1-ND/771902
+
+4x 1k ohm 603-RES
+http://www.digikey.com/product-detail/en/RC0603JR-071KL/311-1.0KGRCT-ND/729624?cur=USD
+
+1x 10k ohm 603-RES
+http://www.digikey.com/product-detail/en/RC0603JR-0710KL/311-10KGRCT-ND/729647?cur=USD
+
+5x 0.1 uF 603-CAP
+http://www.digikey.com/product-detail/en/C1608X7R1E104K/445-1316-1-ND/567697?cur=USD
+
+2x 22pF 603-CAP
+http://www.digikey.com/product-detail/en/C1608C0G1H220J/445-1273-1-ND/567670?cur=USD
+
+2x 1uF 603-CAP
+http://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R61E105KA12D/490-3897-1-ND/965939
+
+2x 470pF 603-CAP
+http://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL10B471KB8NNNC/1276-1094-1-ND/3889180
+
+2x 2.2uF 805-CAP
+http://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM21BR61E225KA12L/490-3334-1-ND/702875
+
+2x red, 1.7v 603-LED
+http://www.digikey.com/product-detail/en/SML-LX0603SRW-TR/67-1551-1-ND/304364?cur=USD
+
+1x 16MHz crystal CRYSTAL-SMD-5X3 (7B-16.000MAAJ-T)
+http://www.digikey.com/product-detail/en/7B-16.000MAAJ-T/887-1104-1-ND/2118981?cur=USD
+
+1x 8pos dip switch (219-8MST)
+http://www.digikey.com/product-detail/en/219-8MST/CT2198MST-ND/223209
+
+2x .079" (2mm) smt female header (NPPN101BFLD-RC)
+http://www.digikey.com/product-detail/en/NPPN101BFLD-RC/S5902-10-ND/810025?cur=USD
+
+6x CONN HEADER 3POS 2.5MM (22-03-5035)
+http://www.digikey.com/products/en?keywords=22-03-5035
+
+Pin Headers 2.54mm
+
+
