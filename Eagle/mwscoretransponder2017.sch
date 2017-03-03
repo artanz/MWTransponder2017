@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.6.0">
+<eagle version="8.0.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -7065,7 +7065,7 @@ Source: AVX .. aphvc.pdf</description>
 <part name="Y1" library="SparkFun" deviceset="CRYSTAL" device="5X3"/>
 <part name="P+1" library="SparkFun" deviceset="VCC" device=""/>
 <part name="J5" library="SparkFun" deviceset="M06" device="SIP"/>
-<part name="C6" library="SparkFun" deviceset="CAP" device="0603-CAP" value="100nF"/>
+<part name="C6" library="SparkFun" deviceset="CAP" device="0603-CAP" value="0.1uF"/>
 <part name="GND10" library="SparkFun" deviceset="GND" device=""/>
 <part name="U$1" library="SparkFun" deviceset="5V" device=""/>
 <part name="R12" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="1k"/>
@@ -7099,10 +7099,10 @@ Source: AVX .. aphvc.pdf</description>
 <part name="C1" library="rcl" deviceset="C-US" device="C0603" value="1uF"/>
 <part name="C2" library="rcl" deviceset="C-US" device="C0603" value="470pF"/>
 <part name="C10" library="rcl" deviceset="C-US" device="C0603" value="1uF"/>
-<part name="C11" library="rcl" deviceset="C-US" device="C0603" value="470pf"/>
+<part name="C11" library="rcl" deviceset="C-US" device="C0603" value="470pF"/>
 <part name="C13" library="SparkFun" deviceset="CAP" device="0603-CAP" value="0.1uF"/>
-<part name="C3" library="rcl" deviceset="C-US" device="C0805"/>
-<part name="C12" library="rcl" deviceset="C-US" device="C0805"/>
+<part name="C3" library="rcl" deviceset="C-US" device="C0805" value="2.2uF"/>
+<part name="C12" library="rcl" deviceset="C-US" device="C0805" value="2.2uF"/>
 </parts>
 <sheets>
 <sheet>
